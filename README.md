@@ -1,5 +1,5 @@
 
-![alt text](C:\Users\ben burak\Desktop\proje-architecture)
+![alt text](vue-kanbanboard.gif)
 
 # Goals
   - Clean coding

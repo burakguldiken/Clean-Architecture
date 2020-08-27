@@ -1,5 +1,5 @@
 
-![alt text](vue-kanbanboard.gif)
+![alt text](proje-architecture.png)
 
 # Goals
   - Clean coding
